@@ -2,6 +2,21 @@
 #include <iostream.h>
 #include <cstring>
 
+/*
+ *   I am Ahmed Reda Mahfouz
+ *   Student at the Faculty of Computing and Information Menoufia University 
+ *   Department of Computer Science
+ *
+ *   *       Please Visit us at www.github.com/amahfouz50     *
+ *  This Program was Developed by www.github.com/amahfouz50 forums Team
+ *  *           Please Don't Remove This Comment       *
+ */  
+
+/**
+ *
+ *   @author Ahmed Mahfouz
+ */
+
 class Library
 {
 public:
